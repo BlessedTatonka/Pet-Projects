@@ -12,9 +12,9 @@ Other bge-m3 models are also shrinked.
 
 | Model name                |
 |---------------------------|
-| bge-m3-retromae_en_ru     |
-| bge-m3-unsupervised_en_ru |
-| bge-m3_en_ru              |
+| [bge-m3-retromae_en_ru](https://huggingface.co/TatonkaHF/bge-m3-retromae_en_ru)     |
+| [bge-m3-unsupervised_en_ru](https://huggingface.co/TatonkaHF/bge-m3-unsupervised_en_ru) |
+| [bge-m3_en_ru](https://huggingface.co/TatonkaHF/bge-m3_en_ru)              |
 
 ## Reference:
 
